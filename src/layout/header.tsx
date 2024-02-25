@@ -1,7 +1,6 @@
 'use client';
 
 import { NextLink } from '@/common/next-link';
-import { GitHubIcon } from '@/icons/github-icon';
 import { APP_TITLE } from '@/common/common-utils';
 import { MobileNavMenu, NavMenu } from '@/common/nav-menu';
 import { Suspense, useRef } from 'react';
@@ -26,7 +25,7 @@ export function Header() {
         <MobileNavMenu headerRef={headerRef} />
       </Suspense>
       <NavMenu />
-      
+
     
     </header>
   );
