@@ -26,14 +26,8 @@ export function Header() {
         <MobileNavMenu headerRef={headerRef} />
       </Suspense>
       <NavMenu />
-      <NextLink
-        href="https://github.com/onderonur/rick-and-morty-graphql"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Check the source code on GitHub"
-      >
-        <GitHubIcon />
-      </NextLink>
+      
+    
     </header>
   );
 }
