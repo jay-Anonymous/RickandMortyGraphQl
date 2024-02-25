@@ -17,7 +17,10 @@
     "lint:fix": "next lint --fix --max-warnings 0",
     "prepare": "husky",
     "start": "next start",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "verify": "npm-run",
+    "test": "jest",
+  "deploy": "npm run dev"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.18.1",
