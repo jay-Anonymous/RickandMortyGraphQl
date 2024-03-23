@@ -27,7 +27,7 @@
     "graphql": "^16.8.1",
     "graphql-request": "^6.1.0",
     "nes.css": "^2.3.0",
-    "next": "^14.1.0",
+    "next": "^14.1.1",
     "react": "^18",
     "react-dom": "^18",
     "react-infinite-scroll-hook": "^4.1.1",
