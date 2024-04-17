@@ -31,7 +31,7 @@
     "react": "^18",
     "react-dom": "^18",
     "react-infinite-scroll-hook": "^4.1.1",
-    "tailwind-merge": "^2.2.1"
+    "tailwind-merge": "^2.2.2"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "^5.0.2",
